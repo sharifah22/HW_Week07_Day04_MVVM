@@ -2,7 +2,7 @@
 The homework must be submitted before Sunday, November 28th at 9:00AM ⚠️
 
 # What you'll build 📋
-### In addition of your lab, you'll implement the following features:
+### In addition to your lab, you'll implement the following features:
 #### Home screen:
 - Will display a list of users 
 - Each row will display the avatar, name, and email of the user
